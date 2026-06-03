@@ -11,7 +11,7 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://github.com/Liejox">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00B3FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Blockchain+Builder;Creating+scalable+web+experiences;Code.+Create.+Repeat." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00B3FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;Problem+Solver;Creating+scalable+web+experiences;Code.+Create.+Repeat." alt="typing" />
 </a>
 
 <br/>
