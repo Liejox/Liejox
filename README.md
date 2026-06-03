@@ -6,7 +6,7 @@
 
 <!-- HERO BANNER -->
 <a href="https://github.com/Liejox">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:00b3ff&height=260&section=header&text=Liejo%20S&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Blockchain%20Builder&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a0a0a,100:00b3ff&height=260&section=header&text=Liejo%20S&fontColor=ffffff&fontSize=70&fontAlignY=38&desc=Full%20Stack%20Developer%20·%20Future%20Loading&descSize=18&descAlignY=60&animation=fadeIn" alt="banner" />
 </a>
 
 <!-- ANIMATED TYPING -->
