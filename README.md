@@ -20,18 +20,12 @@
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00B3FF&labelColor=0A0A0A" /></a>
 <a href="mailto:liejosenthil@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00B3FF&labelColor=0A0A0A" /></a>
 <a href="https://liejosportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00B3FF&labelColor=0A0A0A" /></a>
-<img src="https://komarev.com/ghpvc/?username=Liejox&style=for-the-badge&color=00B3FF&label=PROFILE+VIEWS" />
 
 </div>
 
 <br/>
 
 <!-- ─────────── DIVIDER ─────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png" width="100%" />
-</div>
-
-<br/>
 
 <!-- ══════════════ MAIN CHARACTER ENERGY ══════════════ -->
 <div align="center">
