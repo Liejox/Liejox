@@ -27,12 +27,6 @@
 <br/>
 
 <!-- ─────────── DIVIDER ─────────── -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aurora.png" width="100%" />
-</div>
-
-<br/>
-
 <!-- ══════════════ MAIN CHARACTER ENERGY ══════════════ -->
 <div align="center">
 
