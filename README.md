@@ -195,48 +195,6 @@
 
 <br/>
 
-<!-- ══════════════ GITHUB ANALYTICS ══════════════ -->
-<div align="center">
-
-### 📊  GITHUB ANALYTICS  📊
-
-<a href="https://github.com/Liejox">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Liejox&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00B3FF&icon_color=00B3FF&text_color=ffffff&ring_color=00B3FF" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liejox&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00B3FF&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Liejox">
-  <img src="https://streak-stats.demolab.com?user=Liejox&hide_border=true&background=0a0a0a&stroke=00B3FF&ring=00B3FF&fire=00B3FF&currStreakLabel=00B3FF&sideLabels=ffffff&currStreakNum=ffffff&dates=ffffff&sideNums=ffffff" height="170"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Liejox">
-  <img src="https://github-profile-trophy.vercel.app/?username=Liejox&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- ══════════════ CONTRIBUTION SNAKE ══════════════ -->
-<div align="center">
-
-### 🐍  CONTRIBUTION SNAKE  🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Liejox/Liejox/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Liejox/Liejox/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Liejox/Liejox/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>↳ Auto-generated daily via GitHub Actions (<a href="https://github.com/Platane/snk">Platane/snk</a>)</sub>
-
-</div>
-
-<br/>
 
 <!-- ─────────── DIVIDER ─────────── -->
 <div align="center">
@@ -245,20 +203,6 @@
 
 <br/>
 
-<!-- ══════════════ CONNECT ══════════════ -->
-<div align="center">
-
-### 🛰  CONNECT  🛰
-
-<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=00B3FF" height="42"/></a>
-&nbsp;
-<a href="https://github.com/Liejox"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=00B3FF" height="42"/></a>
-&nbsp;
-<a href="mailto:liejosenthil@gmail.com"><img src="https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=00B3FF" height="42"/></a>
-
-</div>
-
-<br/>
 
 <!-- ══════════════ FOOTER ══════════════ -->
 <div align="center">
