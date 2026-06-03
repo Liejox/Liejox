@@ -1,5 +1,5 @@
 <!-- ════════════════════════════════════════════════════════════════
-       LIEJO S · FULL STACK + BLOCKCHAIN DEVELOPER
+       LIEJO S · FULL STACK + SHIPPER OF THINGS
      ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -37,10 +37,6 @@
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/000000/rocket.png" width="40"/><br/>
 <sub><b>Building cool products</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/48/000000/blockchain-technology.png" width="40"/><br/>
-<sub><b>Exploring blockchain</b></sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.icons8.com/fluency/48/000000/design.png" width="40"/><br/>
